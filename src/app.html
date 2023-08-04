@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+	<meta name="viewport" content="width=device-width" />
+	%sveltekit.head%
+</head>
+
+<body data-sveltekit-preload-data="hover">
+	<div style="display: contents">%sveltekit.body%</div>
+</body>
+<script>
+	// Function to scroll the container automatically
+	function autoScrollContainer() {
+		let list = []
+		const containers = document.querySelectorAll('.scroll-container');
+		containers.forEach(item => {
+			list.push({
+				item, int: 0
+			})
+		})
+		setInterval(() => {
+			list.forEach((i) => {
+				i.item.scrollTo(i.int, 0);
+				i.int = i.int + 1;
+				setTimeout(() => {
+					return
+				}, 1000)
+			})
+		}, 69);
+	}
+
+	autoScrollContainer();
+</script>
+
+</html>
