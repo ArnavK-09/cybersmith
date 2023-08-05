@@ -8,7 +8,7 @@ Cyber Smith Bot is a feature-rich and responsive Svelte 3 chatbot application te
 
 ## Features 🚀
 
-- 🤖 Interactive chat with Cyber Smith, your friendly AI assistant. 🗣️
+- 🤖 Interactive UI for your consumers, boggling mind 🗣️
 - 🎨 Stunning design with pleasing colors and smooth animations. 😍
 - 📱 Fully responsive layout, works seamlessly on both desktop and mobile devices. 📱
 - 🛠️ Customizable and easy to integrate into your projects. ⚙️
