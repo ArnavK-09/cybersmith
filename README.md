@@ -1,4 +1,4 @@
-# Cyber Smith Bot 🤖 by Arnavk-09
+# **Cyber Smith Bot Landing Page**
 
 ![Cyber Smith Bot](/static/bot/peace.png)
 
