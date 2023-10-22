@@ -26,12 +26,8 @@ npm run dev
 ## Contributing 👥
 We welcome contributions to enhance Cyber Smith Bot's capabilities. Please follow the github contribution guidelines to get started. 🤝
 
-## License 📝
-> **_Null_**
-
 # Acknowledgments 👏
 All illustrations used in this project are collected from Freepik.
 Special thanks to the Svelte and Tailwind CSS communities for their amazing tools and support.
 
----
 ---
